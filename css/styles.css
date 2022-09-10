@@ -1,0 +1,147 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    
+}
+
+/* this is used to create a frame in which the website lies inside */
+.container-fluid {
+    padding: 3% 7%;
+}
+
+h2 {
+    font-weight: 900;
+    line-height: 1.5;
+    font-size: 2rem;
+}
+/* this is the top portion of the site */
+#title {
+    background-color: #1f2937;
+    color: #e5e7eb;
+
+}
+
+/* Navigation */
+
+/* this is used to create space between the header options */
+
+/* this is for the logo */
+.navbar-brand {
+    font-size: 24px;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 700;
+    color: #f9faf8;
+}
+
+/* this  is the spacing between the nav-link.. 0 for top&bottom and 18 for left&right */
+.nav-item {
+    padding: 0 18px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
+.row {
+    line-height: 1.5;
+    padding: 3% 7%;
+    text-align: left;
+}
+
+.Main-text {
+    font-size: 48px;
+    font-weight: 900;
+
+}
+
+.paragraph {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    font-weight: 100;
+
+}
+
+.image {
+    padding-bottom: 7%;
+
+}
+
+
+/* Features Section */
+
+#features {
+    background-color: #fff;
+    padding: 3% 7%;
+    
+}
+.features-div {
+    text-align: center;
+    
+}
+
+/* Qoute */
+
+#qoute {
+    background-color: #e5e7eb;
+    font-size: 25px;
+    font-weight: lighter;
+    color: #1f2937;
+    padding: 7% 15%;
+
+}
+
+.testimonial-image {
+    border-radius: 100%;
+    margin: 20px;
+}
+
+/* Press */
+
+#press {
+    padding-bottom: 3%;
+    background-color: #e5e7eb;
+}
+
+.press-logo {
+    margin: 20px 20px 50px;
+}
+
+/* Pricing */
+
+#pricing {
+    background-color: #1f2937;
+    padding: 100px;
+    
+}
+
+.pricing-text {
+    color: #fff;
+    
+}
+
+/* Call to Action */
+#cta {
+   background-color: #fff;
+    margin: 0 18px;
+}
+
+.cta-text {
+    padding: 10px;
+    line-height: 1.5;
+}
+
+.cta-button {
+    margin: 0 18px;
+}
+
+/* Footer */
+#footer {
+    background-color: #fff;
+}
+
+.icon {
+    margin: 1% 1%;
+}
+
+.footer-paragraph {
+    font-family: 'Ubuntu', sans-serif;
+
+}
